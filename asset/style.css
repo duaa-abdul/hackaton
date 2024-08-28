@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+
+.row{
+    padding-top: 7%;
+}
+.row button{
+    background-color: black;
+    color: white;
+    width: 190px;
+    height: 40px;border: none;
+    border-radius: 10px;
+}
+
+.row .btn{
+    background-color: greenyellow;
+    color: black;
+    font-size: 25px;
+}
+
+.col h1{
+    padding-top: 12%;
+}
+.col h1 span{
+    background-color: greenyellow;
+}
+.col .btn2{
+    background-color: transparent;
+    color: black;
+    padding-top: 15%;
+}
+.col .img{
+    float: right;
+   height: 200px;
+}
+
+
+.col1 {
+background-color: greenyellow;
+}
+.col2{
+    height: 100px;
+  padding-top: 1%;
+}
+.col3{
+    height: 100px;
+  padding-top: 1%;
+}
+.col4{
+    height: 100px;
+  padding-top: 1%;
+}
+.col5{
+    height: 100px;
+  padding-top: 1%;
+}
+.col6{
+    height: 100px;
+  padding-top: 1%;
+}
+
+.col span {
+background-color: greenyellow;
+font-size: xx-large;
+
+}
+
+
+/* footer.. */
+
+.row h4{
+    background-color: greenyellow;
+}
